@@ -1,0 +1,3 @@
+Disposable note for PR create isolation test.
+Date: 2026-10-01
+Safe to delete after the draft PR is closed.
